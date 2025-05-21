@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs , TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://main-portfolio-two-gamma.vercel.app/](https://main-portfolio-two-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://divyeshbakaraniya.vercel.app/](https://divyeshbakaraniya.vercel.app/)
 
 - 💬 Ask me about **MERN stack**
 
